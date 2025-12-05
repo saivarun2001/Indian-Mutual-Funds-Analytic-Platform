@@ -57,16 +57,6 @@ flowchart TD
     E --> F[Visualization<br>Trends, Drawdowns, Heatmaps]
     F --> G[Insights & Reporting<br>Category & Fund Ranking]
 
-🛠️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/Indian-Mutual-Funds-Analytics.git
-cd Indian-Mutual-Funds-Analytics
-
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Open Jupyter Notebooks
-jupyter notebook
 
 📊 Sample Visualizations
 NAV Trend Comparison
